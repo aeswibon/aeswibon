@@ -48,7 +48,7 @@ I´m Abhiuday Gupta, CP Programmer in India.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cp-Coder&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp-Coder&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cpCoder&theme=gruvbox" />  
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cpCoder&theme=gruvbox" />   -->
 <!-- <a href="https://github.com/cp-Coder/TheForgottenYou" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=TheForgottenYou&theme=gruvbox""></a> -->
 <a href="https://github.com/cp-Coder/linkedin-clone" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=linkedin-clone&theme=gruvbox""></a>
 <a href="https://github.com/cp-Coder/slack-clone" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=slack-clone&theme=gruvbox""></a>
