@@ -2,13 +2,37 @@
 
 I´m Abhiuday Gupta, CP Programmer in India.
 
-<!-- ## 🚀💻 Technologies & Tools -->
-### What I know, or am familiar with:
+<p>
+<a href="https://www.linkedin.com/in/cp-Coder/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+<!--  
+<a href="https://twitter.com/" target="_blank">
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
+ <a href="https://www.hackerrank.com/" target="_blank">
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+ </a>
+ <a href="https://leetcode.com/" target="_blank">
+ <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+ </a>
+ <a href="https://www.hackerearth.com/" target="_blank">
+ <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
+ </a>
+ <a href="https://www.kaggle.com/" target="_blank">
+ <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+ </a>
+ -->
+</p>
+
+## 🚀💻 Technologies & Tools
+<!-- ### What I know, or am familiar with: -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 <!-- ### What I know, or am familiar with:
@@ -119,19 +143,14 @@ I´m Abhiuday Gupta, CP Programmer in India.
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
  -->
-### Find me on:
 
-<!-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://tinker.hashnode.dev/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cp-Coder/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
-<!-- [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) -->
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com//) -->
-<!-- [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/) -->
-<!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/) -->
-
-### The languages I use:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cp-Coder&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+## :octocat: Github Stats
+ <a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cp-Coder&show_icons=true&theme=chartreuse-dark">
+ </a>
+ <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp-Coder&layout=compact&langs_count=10&theme=chartreuse-dark">
+</a>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -139,7 +158,6 @@ I´m Abhiuday Gupta, CP Programmer in India.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -152,22 +170,24 @@ I´m Abhiuday Gupta, CP Programmer in India.
 ![LaTEX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  -->
- 
- ### My coding stats
-[![Cp-Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=cp-Coder&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=cp-Coder&theme=gruvbox_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <!-- ![Some more stats](https://github-profile-trophy.vercel.app/?username=cp-Coder&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15) -->
 ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cp-Coder&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cpCoder&theme=gruvbox" />   -->
 
-### Some of my works:
+## Some of my works:
+<p>
 <!-- <a href="https://github.com/cp-Coder/TheForgottenYou" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=TheForgottenYou&theme=gruvbox""></a> -->
-<a href="https://github.com/cp-Coder/linkedin-clone" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=linkedin-clone&show_icons=true&theme=chartreuse-dark"></a>
-<a href="https://github.com/cp-Coder/slack-clone" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=slack-clone&show_icons=true&theme=chartreuse-dark"></a>
-<a href="https://github.com/cp-Coder/fbclone" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=fbclone&show_icons=true&theme=chartreuse-dark"></a>  
-
-![Profile Views](https://komarev.com/ghpvc/?username=cp-Coder&color=6ad600)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cp-Coder.cp-Coder)
-
+<a href="https://github.com/cp-Coder/linkedin-clone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=linkedin-clone&show_icons=true&theme=chartreuse-dark">
+</a>
+<a href="https://github.com/cp-Coder/slack-clone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=slack-clone&show_icons=true&theme=chartreuse-dark">
+ </a>
+<a href="https://github.com/cp-Coder/fbclone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=fbclone&show_icons=true&theme=chartreuse-dark">
+ </a>  
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=cp-Coder&color=6ad600" alt="profile views">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cp-Coder.cp-Coder" alt="visitor views">
+</p>
