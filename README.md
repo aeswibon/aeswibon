@@ -171,7 +171,7 @@ I´m Abhiuday Gupta, CP Programmer in India.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  -->
 <!-- ![Some more stats](https://github-profile-trophy.vercel.app/?username=cp-Coder&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15) -->
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cp-Coder&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true)
+<!-- ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cp-Coder&theme=react-dark&custom_title=My%20Commits%20Graph%20&hide_border=true) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cpCoder&theme=gruvbox" />   -->
 
 ## Some of my works:
