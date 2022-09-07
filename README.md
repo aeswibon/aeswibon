@@ -177,15 +177,15 @@ I´m Abhiuday Gupta, CP Programmer in India.
 ## Some of my works:
 <p>
 <!-- <a href="https://github.com/cp-Coder/TheForgottenYou" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=TheForgottenYou&theme=gruvbox""></a> -->
-<a href="https://github.com/cp-Coder/linkedin-clone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=linkedin-clone&show_icons=true&theme=chartreuse-dark">
+<a href="https://github.com/cp-Coder/arike" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=arike&show_icons=true&theme=chartreuse-dark">
 </a>
-<a href="https://github.com/cp-Coder/slack-clone" target="_blank">
+<!-- <a href="https://github.com/cp-Coder/slack-clone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=slack-clone&show_icons=true&theme=chartreuse-dark">
  </a>
 <a href="https://github.com/cp-Coder/fbclone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=fbclone&show_icons=true&theme=chartreuse-dark">
- </a>  
+ </a> -->  
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cp-Coder&color=6ad600" alt="profile views">
