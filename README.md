@@ -149,11 +149,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2034](https://github.com/vercel/turbo/issues/2034) in [vercel/turbo](https://github.com/vercel/turbo)
-2. 💪 Opened PR [#131](https://github.com/coronasafe/ayushma/pull/131) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-3. 💪 Opened PR [#13](https://github.com/coronasafe/ayushma_fe/pull/13) in [coronasafe/ayushma_fe](https://github.com/coronasafe/ayushma_fe)
-4. 💪 Opened PR [#130](https://github.com/coronasafe/ayushma/pull/130) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-5. 🔒 Closed issue [#878](https://github.com/coronasafe/care/issues/878) in [coronasafe/care](https://github.com/coronasafe/care)
+1. 🔒 Closed issue [#975](https://github.com/coronasafe/care/issues/975) in [coronasafe/care](https://github.com/coronasafe/care)
+2. 🔒 Closed issue [#3329](https://github.com/coronasafe/care_fe/issues/3329) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+3. 🗣 Commented on [#3329](https://github.com/coronasafe/care_fe/issues/3329) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+4. ❌ Closed PR [#1059](https://github.com/coronasafe/care/pull/1059) in [coronasafe/care](https://github.com/coronasafe/care)
+5. 🗣 Commented on [#2034](https://github.com/vercel/turbo/issues/2034) in [vercel/turbo](https://github.com/vercel/turbo)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
