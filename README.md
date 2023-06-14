@@ -150,10 +150,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1367](https://github.com/coronasafe/care/issues/1367) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 💪 Opened PR [#176](https://github.com/coronasafe/ayushma/pull/176) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-3. 🗣 Commented on [#1367](https://github.com/coronasafe/care/issues/1367) in [coronasafe/care](https://github.com/coronasafe/care)
-4. 💪 Opened PR [#175](https://github.com/coronasafe/ayushma/pull/175) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-5. 🔒 Closed issue [#975](https://github.com/coronasafe/care/issues/975) in [coronasafe/care](https://github.com/coronasafe/care)
+2. 🗣 Commented on [#1367](https://github.com/coronasafe/care/issues/1367) in [coronasafe/care](https://github.com/coronasafe/care)
+3. 💪 Opened PR [#176](https://github.com/coronasafe/ayushma/pull/176) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
+4. 🗣 Commented on [#1367](https://github.com/coronasafe/care/issues/1367) in [coronasafe/care](https://github.com/coronasafe/care)
+5. 💪 Opened PR [#175](https://github.com/coronasafe/ayushma/pull/175) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
