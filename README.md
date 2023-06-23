@@ -30,7 +30,7 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-### 📚 Frameworks, Platforms and Libraries
+### 📚 Frameworks, Platforms, and Libraries
 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql)
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA.svg?logo=bootstrap&logoColor=white)
@@ -84,18 +84,18 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
-### 🎛️ Operating System
 
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?logo=alpine-linux&logoColor=white)
+### 🎛️ Operating System
+<!-- 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Elementary OS](https://img.shields.io/badge/Elementary%20OS-black?logo=elementary&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=Linux%20Mint&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white) 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=Manjaro&logoColor=white)
+-->
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?logo=alpine-linux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?logo=Windows%2011&logoColor=white)
 
 ### 🥅 Other
 
@@ -106,13 +106,14 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white)
+<!--
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)
+-->
 
 <!-- ### 🎋 ORM
 
