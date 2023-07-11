@@ -163,16 +163,16 @@
 
 ## Contributions and works
 
-[![Care](https://github-readme-stats.vercel.app/api/pin/?username=coronasafe&repo=care&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/care)
-[![Care Frontend](https://github-readme-stats.vercel.app/api/pin/?username=coronasafe&repo=care_fe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/care_fe)
+[![Care](https://github-readme-stats-lac-two-27.vercel.app/api/pin/?username=coronasafe&repo=care&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/care)
+[![Care Frontend](https://github-readme-stats-lac-two-27.vercel.app/api/pin/?username=coronasafe&repo=care_fe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/care_fe)
 
-[![Ayushma](https://github-readme-stats.vercel.app/api/pin/?username=coronasafe&repo=ayushma&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/ayushma_fe)
-[![Ayushma Frontend](https://github-readme-stats.vercel.app/api/pin/?username=coronasafe&repo=ayushma_fe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/ayushma_fe)
+[![Ayushma](https://github-readme-stats-lac-two-27.vercel.app/api/pin/?username=coronasafe&repo=ayushma&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/ayushma_fe)
+[![Ayushma Frontend](https://github-readme-stats-lac-two-27.vercel.app/api/pin/?username=coronasafe&repo=ayushma_fe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/coronasafe/ayushma_fe)
 
-[![Khelo](https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=khelo-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/cp-Coder/khelo-backend)
-[![Kanbex](https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=kanbex-vercel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/cp-Coder/kanbex-vercel)
+[![Khelo](https://github-readme-stats-lac-two-27.vercel.app/api/pin/?username=cp-Coder&repo=khelo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/cp-Coder/khelo)
+[![Kanbex](https://github-readme-stats-lac-two-27.vercel.app/api/pin/?username=cp-Coder&repo=kanbex&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/cp-Coder/kanbex)
 
-[![Arike](https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=arike&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/cp-Coder/arike)
+<!-- [![Arike](https://github-readme-stats.vercel.app/api/pin/?username=cp-Coder&repo=arike&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/cp-Coder/arike) -->
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=cp-Coder&color=6ad600" alt="profile views">
