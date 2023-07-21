@@ -150,11 +150,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1431](https://github.com/coronasafe/care/pull/1431) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 🗣 Commented on [#56](https://github.com/render-oss/render-cli/issues/56#issuecomment-1602382818) in [render-oss/render-cli](https://github.com/render-oss/render-cli)
-3. ❗ Opened issue [#1389](https://github.com/coronasafe/care/issues/1389) in [coronasafe/care](https://github.com/coronasafe/care)
-4. ❗ Opened issue [#1388](https://github.com/coronasafe/care/issues/1388) in [coronasafe/care](https://github.com/coronasafe/care)
-5. ❗ Opened issue [#1387](https://github.com/coronasafe/care/issues/1387) in [coronasafe/care](https://github.com/coronasafe/care)
+1. 🔒 Closed issue [#1166](https://github.com/coronasafe/care/issues/1166) in [coronasafe/care](https://github.com/coronasafe/care)
+2. 🔒 Closed issue [#4001](https://github.com/coronasafe/care_fe/issues/4001) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+3. ❌ Closed PR [#1167](https://github.com/coronasafe/care/pull/1167) in [coronasafe/care](https://github.com/coronasafe/care)
+4. 💪 Opened PR [#1431](https://github.com/coronasafe/care/pull/1431) in [coronasafe/care](https://github.com/coronasafe/care)
+5. 🗣 Commented on [#56](https://github.com/render-oss/render-cli/issues/56#issuecomment-1602382818) in [render-oss/render-cli](https://github.com/render-oss/render-cli)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
