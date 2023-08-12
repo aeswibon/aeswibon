@@ -145,7 +145,7 @@
 
 **Note**: Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-![cp-Coder's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=cp-Coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+<!-- ![cp-Coder's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=cp-Coder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
 
 ### ⚡ Recent GitHub Activity
 
