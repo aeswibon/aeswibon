@@ -150,11 +150,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1575](https://github.com/coronasafe/care/pull/1575) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 🔒 Closed issue [#1377](https://github.com/coronasafe/care/issues/1377) in [coronasafe/care](https://github.com/coronasafe/care)
-3. 🗣 Commented on [#1377](https://github.com/coronasafe/care/issues/1377#issuecomment-1667474354) in [coronasafe/care](https://github.com/coronasafe/care)
-4. ❌ Closed PR [#1058](https://github.com/coronasafe/care/pull/1058) in [coronasafe/care](https://github.com/coronasafe/care)
-5. 🗣 Commented on [#1058](https://github.com/coronasafe/care/pull/1058#issuecomment-1667460789) in [coronasafe/care](https://github.com/coronasafe/care)
+1. ❌ Closed PR [#176](https://github.com/coronasafe/ayushma/pull/176) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
+2. 🗣 Commented on [#176](https://github.com/coronasafe/ayushma/pull/176#issuecomment-1706240994) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
+3. 💪 Opened PR [#1575](https://github.com/coronasafe/care/pull/1575) in [coronasafe/care](https://github.com/coronasafe/care)
+4. 🔒 Closed issue [#1377](https://github.com/coronasafe/care/issues/1377) in [coronasafe/care](https://github.com/coronasafe/care)
+5. 🗣 Commented on [#1377](https://github.com/coronasafe/care/issues/1377#issuecomment-1667474354) in [coronasafe/care](https://github.com/coronasafe/care)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
