@@ -150,11 +150,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8713](https://github.com/meshery/meshery/issues/8713#issuecomment-1714161336) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 💪 Opened PR [#1589](https://github.com/coronasafe/care/pull/1589) in [coronasafe/care](https://github.com/coronasafe/care)
-3. 🗣 Commented on [#1260](https://github.com/coronasafe/care/pull/1260#issuecomment-1712500997) in [coronasafe/care](https://github.com/coronasafe/care)
-4. ❌ Closed PR [#176](https://github.com/coronasafe/ayushma/pull/176) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-5. 🗣 Commented on [#176](https://github.com/coronasafe/ayushma/pull/176#issuecomment-1706240994) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
+1. 💪 Opened PR [#622](https://github.com/meshery/meshery-istio/pull/622) in [meshery/meshery-istio](https://github.com/meshery/meshery-istio)
+2. 🗣 Commented on [#14](https://github.com/meshery/meshery-perf/issues/14#issuecomment-1717892541) in [meshery/meshery-perf](https://github.com/meshery/meshery-perf)
+3. 🗣 Commented on [#621](https://github.com/meshery/meshery-istio/issues/621#issuecomment-1717885753) in [meshery/meshery-istio](https://github.com/meshery/meshery-istio)
+4. 🗣 Commented on [#8713](https://github.com/meshery/meshery/issues/8713#issuecomment-1714161336) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 💪 Opened PR [#1589](https://github.com/coronasafe/care/pull/1589) in [coronasafe/care](https://github.com/coronasafe/care)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
