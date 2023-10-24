@@ -150,11 +150,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1670](https://github.com/coronasafe/care/pull/1670) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 💪 Opened PR [#6435](https://github.com/coronasafe/care_fe/pull/6435) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-3. 🗣 Commented on [#7028](https://github.com/amplication/amplication/issues/7028#issuecomment-1750122397) in [amplication/amplication](https://github.com/amplication/amplication)
-4. 🗣 Commented on [#7050](https://github.com/amplication/amplication/issues/7050#issuecomment-1750121340) in [amplication/amplication](https://github.com/amplication/amplication)
-5. 🗣 Commented on [#6435](https://github.com/appwrite/appwrite/issues/6435#issuecomment-1750120563) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#1264](https://github.com/coronasafe/care/pull/1264#issuecomment-1775292238) in [coronasafe/care](https://github.com/coronasafe/care)
+2. ❌ Closed PR [#1264](https://github.com/coronasafe/care/pull/1264) in [coronasafe/care](https://github.com/coronasafe/care)
+3. 💪 Opened PR [#1670](https://github.com/coronasafe/care/pull/1670) in [coronasafe/care](https://github.com/coronasafe/care)
+4. 💪 Opened PR [#6435](https://github.com/coronasafe/care_fe/pull/6435) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+5. 🗣 Commented on [#7028](https://github.com/amplication/amplication/issues/7028#issuecomment-1750122397) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
