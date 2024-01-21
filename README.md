@@ -150,11 +150,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#645](https://github.com/meshery/meshery-istio/issues/645#issuecomment-1900125288) in [meshery/meshery-istio](https://github.com/meshery/meshery-istio)
-2. 🗣 Commented on [#6464](https://github.com/coronasafe/care_fe/pull/6464#issuecomment-1873755257) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-3. 🗣 Commented on [#1589](https://github.com/coronasafe/care/pull/1589#issuecomment-1870077434) in [coronasafe/care](https://github.com/coronasafe/care)
-4. 🗣 Commented on [#1689](https://github.com/coronasafe/care/pull/1689#issuecomment-1818984305) in [coronasafe/care](https://github.com/coronasafe/care)
-5. 🗣 Commented on [#6512](https://github.com/coronasafe/care_fe/pull/6512#issuecomment-1785707121) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+1. ❗ Opened issue [#7070](https://github.com/coronasafe/care_fe/issues/7070) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+2. 🗣 Commented on [#1839](https://github.com/coronasafe/care/pull/1839#issuecomment-1902165782) in [coronasafe/care](https://github.com/coronasafe/care)
+3. 🗣 Commented on [#1810](https://github.com/coronasafe/care/issues/1810#issuecomment-1902106254) in [coronasafe/care](https://github.com/coronasafe/care)
+4. 💪 Opened PR [#1839](https://github.com/coronasafe/care/pull/1839) in [coronasafe/care](https://github.com/coronasafe/care)
+5. 🗣 Commented on [#1810](https://github.com/coronasafe/care/issues/1810#issuecomment-1902053971) in [coronasafe/care](https://github.com/coronasafe/care)
 <!--END_SECTION:activity-->
 
 ### 🏷️ Holopin Badges
