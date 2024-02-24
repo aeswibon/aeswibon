@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1898](https://github.com/coronasafe/care/pull/1898#issuecomment-1953453414) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 🗣 Commented on [#1839](https://github.com/coronasafe/care/pull/1839#issuecomment-1953452994) in [coronasafe/care](https://github.com/coronasafe/care)
-3. 🗣 Commented on [#7219](https://github.com/coronasafe/care_fe/issues/7219#issuecomment-1953452361) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-4. 💪 Opened PR [#1898](https://github.com/coronasafe/care/pull/1898) in [coronasafe/care](https://github.com/coronasafe/care)
-5. 🗣 Commented on [#1775](https://github.com/coronasafe/care/issues/1775#issuecomment-1946171644) in [coronasafe/care](https://github.com/coronasafe/care)
+1. 🗣 Commented on [#1911](https://github.com/coronasafe/care/pull/1911#issuecomment-1961005533) in [coronasafe/care](https://github.com/coronasafe/care)
+2. 💪 Opened PR [#1911](https://github.com/coronasafe/care/pull/1911) in [coronasafe/care](https://github.com/coronasafe/care)
+3. 💪 Opened PR [#7257](https://github.com/coronasafe/care_fe/pull/7257) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+4. 🗣 Commented on [#7219](https://github.com/coronasafe/care_fe/issues/7219#issuecomment-1960890285) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+5. 🗣 Commented on [#1898](https://github.com/coronasafe/care/pull/1898#issuecomment-1953453414) in [coronasafe/care](https://github.com/coronasafe/care)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
