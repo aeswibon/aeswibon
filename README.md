@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1898](https://github.com/coronasafe/care/pull/1898#issuecomment-1995255350) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 🗣 Commented on [#1921](https://github.com/coronasafe/care/issues/1921#issuecomment-1987248850) in [coronasafe/care](https://github.com/coronasafe/care)
-3. 🗣 Commented on [#1920](https://github.com/coronasafe/care/issues/1920#issuecomment-1987248794) in [coronasafe/care](https://github.com/coronasafe/care)
-4. 🗣 Commented on [#7345](https://github.com/coronasafe/care_fe/pull/7345#issuecomment-1979087252) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-5. 💪 Opened PR [#7345](https://github.com/coronasafe/care_fe/pull/7345) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+1. 🎉 Merged PR [#2](https://github.com/aeswibon/portfolio/pull/2) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+2. 💪 Opened PR [#2](https://github.com/aeswibon/portfolio/pull/2) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+3. 🎉 Merged PR [#1](https://github.com/aeswibon/portfolio/pull/1) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+4. 💪 Opened PR [#1](https://github.com/aeswibon/portfolio/pull/1) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+5. 🗣 Commented on [#1898](https://github.com/coronasafe/care/pull/1898#issuecomment-1995255350) in [coronasafe/care](https://github.com/coronasafe/care)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
