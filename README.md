@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#279](https://github.com/hatchet-dev/hatchet/issues/279#issuecomment-2011246616) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-2. 🗣 Commented on [#280](https://github.com/hatchet-dev/hatchet/issues/280#issuecomment-2011246513) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-3. 🗣 Commented on [#278](https://github.com/hatchet-dev/hatchet/issues/278#issuecomment-2011245529) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-4. 🗣 Commented on [#430](https://github.com/coronasafe/ayushma/issues/430#issuecomment-2011219332) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-5. 🗣 Commented on [#7354](https://github.com/coronasafe/care_fe/issues/7354#issuecomment-2007315499) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+1. 🗣 Commented on [#279](https://github.com/hatchet-dev/hatchet/issues/279#issuecomment-2012763929) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+2. 🗣 Commented on [#82](https://github.com/jamesgeorge007/github-activity-readme/issues/82#issuecomment-2012082675) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#279](https://github.com/hatchet-dev/hatchet/issues/279#issuecomment-2011246616) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+4. 🗣 Commented on [#280](https://github.com/hatchet-dev/hatchet/issues/280#issuecomment-2011246513) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+5. 🗣 Commented on [#278](https://github.com/hatchet-dev/hatchet/issues/278#issuecomment-2011245529) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
