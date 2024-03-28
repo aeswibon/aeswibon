@@ -23,12 +23,12 @@
 
 ### 💻 GitHub Profile Stats
 
-![Contribution](https://github-readme-stats.vercel.app/api?username=aeswibon&theme=dark&hide_border=false&include_all_commits=true&count_private=false) \
-![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=aeswibon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![Contribution](https://github-readme-stats.vercel.app/api?username=aeswibon&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=aeswibon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![Contribution](https://github.com/aeswibon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) ![Languages Used](https://github.com/aeswibon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=aeswibon&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aeswibon&theme=onestar&no-frame=false&no-bg=false&margin-w=4&column=5)
 
 ### ⚡ Recent GitHub Activity
 
