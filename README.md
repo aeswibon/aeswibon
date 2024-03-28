@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/jamesgeorge007/github-activity-readme/issues/103#issuecomment-2024562013) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 💪 Opened PR [#1034](https://github.com/hasura/learn-graphql/pull/1034) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
-3. ❗ Opened issue [#1033](https://github.com/hasura/learn-graphql/issues/1033) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
-4. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2021172434) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-5. 💪 Opened PR [#294](https://github.com/hatchet-dev/hatchet/pull/294) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+1. 🗣 Commented on [#1034](https://github.com/hasura/learn-graphql/pull/1034#issuecomment-2025764457) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
+2. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2025740517) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+3. 🗣 Commented on [#1034](https://github.com/hasura/learn-graphql/pull/1034#issuecomment-2025717249) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
+4. 🗣 Commented on [#1034](https://github.com/hasura/learn-graphql/pull/1034#issuecomment-2025705113) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
+5. 🗣 Commented on [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115#issuecomment-2025668057) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
