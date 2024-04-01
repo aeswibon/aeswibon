@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5116](https://github.com/hcengineering/platform/pull/5116) in [hcengineering/platform](https://github.com/hcengineering/platform)
-2. 🗣 Commented on [#3560](https://github.com/hcengineering/platform/issues/3560#issuecomment-2028579034) in [hcengineering/platform](https://github.com/hcengineering/platform)
-3. 🗣 Commented on [#4916](https://github.com/hcengineering/platform/issues/4916#issuecomment-2027937687) in [hcengineering/platform](https://github.com/hcengineering/platform)
-4. 🗣 Commented on [#3560](https://github.com/hcengineering/platform/issues/3560#issuecomment-2027306653) in [hcengineering/platform](https://github.com/hcengineering/platform)
-5. 🗣 Commented on [#3560](https://github.com/hcengineering/platform/issues/3560#issuecomment-2027238831) in [hcengineering/platform](https://github.com/hcengineering/platform)
+1. 🎉 Merged PR [#3](https://github.com/aeswibon/portfolio/pull/3) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+2. 💪 Opened PR [#3](https://github.com/aeswibon/portfolio/pull/3) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+3. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2029476443) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+4. 💪 Opened PR [#497](https://github.com/coronasafe/ayushma/pull/497) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
+5. 💪 Opened PR [#5119](https://github.com/hcengineering/platform/pull/5119) in [hcengineering/platform](https://github.com/hcengineering/platform)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
