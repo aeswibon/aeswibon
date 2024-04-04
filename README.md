@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/aeswibon/portfolio/pull/3) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
-2. 💪 Opened PR [#3](https://github.com/aeswibon/portfolio/pull/3) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
-3. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2029476443) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-4. 💪 Opened PR [#497](https://github.com/coronasafe/ayushma/pull/497) in [coronasafe/ayushma](https://github.com/coronasafe/ayushma)
-5. 💪 Opened PR [#5119](https://github.com/hcengineering/platform/pull/5119) in [hcengineering/platform](https://github.com/hcengineering/platform)
+1. 🗣 Commented on [#5166](https://github.com/hcengineering/platform/issues/5166#issuecomment-2036237159) in [hcengineering/platform](https://github.com/hcengineering/platform)
+2. 🗣 Commented on [#994](https://github.com/coronasafe/care/issues/994#issuecomment-2036230207) in [coronasafe/care](https://github.com/coronasafe/care)
+3. 🔒 Closed issue [#994](https://github.com/coronasafe/care/issues/994) in [coronasafe/care](https://github.com/coronasafe/care)
+4. 🎉 Merged PR [#3](https://github.com/aeswibon/portfolio/pull/3) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
+5. 💪 Opened PR [#3](https://github.com/aeswibon/portfolio/pull/3) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
