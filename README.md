@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2036953812) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-2. 🗣 Commented on [#168](https://github.com/coronasafe/leaderboard/issues/168#issuecomment-2036736765) in [coronasafe/leaderboard](https://github.com/coronasafe/leaderboard)
-3. 🗣 Commented on [#5166](https://github.com/hcengineering/platform/issues/5166#issuecomment-2036237159) in [hcengineering/platform](https://github.com/hcengineering/platform)
-4. 🗣 Commented on [#994](https://github.com/coronasafe/care/issues/994#issuecomment-2036230207) in [coronasafe/care](https://github.com/coronasafe/care)
-5. 🔒 Closed issue [#994](https://github.com/coronasafe/care/issues/994) in [coronasafe/care](https://github.com/coronasafe/care)
+1. 🗣 Commented on [#1379](https://github.com/coronasafe/care/issues/1379#issuecomment-2039269798) in [coronasafe/care](https://github.com/coronasafe/care)
+2. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2036953812) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+3. 🗣 Commented on [#168](https://github.com/coronasafe/leaderboard/issues/168#issuecomment-2036736765) in [coronasafe/leaderboard](https://github.com/coronasafe/leaderboard)
+4. 🗣 Commented on [#5166](https://github.com/hcengineering/platform/issues/5166#issuecomment-2036237159) in [hcengineering/platform](https://github.com/hcengineering/platform)
+5. 🗣 Commented on [#994](https://github.com/coronasafe/care/issues/994#issuecomment-2036230207) in [coronasafe/care](https://github.com/coronasafe/care)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
