@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2062](https://github.com/coronasafe/care/pull/2062) in [coronasafe/care](https://github.com/coronasafe/care)
-2. 🗣 Commented on [#5214](https://github.com/hcengineering/platform/pull/5214#issuecomment-2041512001) in [hcengineering/platform](https://github.com/hcengineering/platform)
-3. 🗣 Commented on [#5214](https://github.com/hcengineering/platform/pull/5214#issuecomment-2041204672) in [hcengineering/platform](https://github.com/hcengineering/platform)
-4. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2040942866) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-5. ❗ Opened issue [#5215](https://github.com/hcengineering/platform/issues/5215) in [hcengineering/platform](https://github.com/hcengineering/platform)
+1. 💪 Opened PR [#512](https://github.com/ScoopInstaller/Java/pull/512) in [ScoopInstaller/Java](https://github.com/ScoopInstaller/Java)
+2. 💪 Opened PR [#2062](https://github.com/coronasafe/care/pull/2062) in [coronasafe/care](https://github.com/coronasafe/care)
+3. 🗣 Commented on [#5214](https://github.com/hcengineering/platform/pull/5214#issuecomment-2041512001) in [hcengineering/platform](https://github.com/hcengineering/platform)
+4. 🗣 Commented on [#5214](https://github.com/hcengineering/platform/pull/5214#issuecomment-2041204672) in [hcengineering/platform](https://github.com/hcengineering/platform)
+5. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2040942866) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
