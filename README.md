@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2056332380) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-2. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2056193268) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-3. 💪 Opened PR [#14577](https://github.com/calcom/cal.com/pull/14577) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2053743660) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
-5. 🗣 Commented on [#5119](https://github.com/hcengineering/platform/pull/5119#issuecomment-2053582912) in [hcengineering/platform](https://github.com/hcengineering/platform)
+1. 🔒 Closed issue [#7070](https://github.com/coronasafe/care_fe/issues/7070) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+2. 🔒 Closed issue [#6985](https://github.com/coronasafe/care_fe/issues/6985) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+3. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2056721030) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+4. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2056332380) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+5. 🗣 Commented on [#294](https://github.com/hatchet-dev/hatchet/pull/294#issuecomment-2056193268) in [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
