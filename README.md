@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5116](https://github.com/hcengineering/platform/pull/5116#issuecomment-2059332436) in [hcengineering/platform](https://github.com/hcengineering/platform)
-2. ❌ Closed PR [#5116](https://github.com/hcengineering/platform/pull/5116) in [hcengineering/platform](https://github.com/hcengineering/platform)
-3. 🗣 Commented on [#7511](https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2059030709) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-4. 🔒 Closed issue [#7070](https://github.com/coronasafe/care_fe/issues/7070) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-5. 🔒 Closed issue [#6985](https://github.com/coronasafe/care_fe/issues/6985) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+1. 💪 Opened PR [#7658](https://github.com/coronasafe/care_fe/pull/7658) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+2. 🗣 Commented on [#5116](https://github.com/hcengineering/platform/pull/5116#issuecomment-2059332436) in [hcengineering/platform](https://github.com/hcengineering/platform)
+3. ❌ Closed PR [#5116](https://github.com/hcengineering/platform/pull/5116) in [hcengineering/platform](https://github.com/hcengineering/platform)
+4. 🗣 Commented on [#7511](https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2059030709) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+5. 🔒 Closed issue [#7070](https://github.com/coronasafe/care_fe/issues/7070) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
