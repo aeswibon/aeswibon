@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aeswibon/dora-node/pull/1) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
-2. 💪 Opened PR [#1](https://github.com/aeswibon/dora-node/pull/1) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
-3. 🗣 Commented on [#7658](https://github.com/coronasafe/care_fe/pull/7658#issuecomment-2104578958) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-4. ❌ Closed PR [#5116](https://github.com/hcengineering/platform/pull/5116) in [hcengineering/platform](https://github.com/hcengineering/platform)
-5. 🗣 Commented on [#7511](https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2059030709) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+1. 🎉 Merged PR [#2](https://github.com/aeswibon/dora-node/pull/2) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
+2. 💪 Opened PR [#2](https://github.com/aeswibon/dora-node/pull/2) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
+3. 🎉 Merged PR [#1](https://github.com/aeswibon/dora-node/pull/1) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
+4. 💪 Opened PR [#1](https://github.com/aeswibon/dora-node/pull/1) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
+5. 🗣 Commented on [#7658](https://github.com/coronasafe/care_fe/pull/7658#issuecomment-2104578958) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
