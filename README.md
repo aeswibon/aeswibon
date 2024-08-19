@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aeswibon/dora-node/pull/2) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
-2. 💪 Opened PR [#2](https://github.com/aeswibon/dora-node/pull/2) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
-3. 🎉 Merged PR [#1](https://github.com/aeswibon/dora-node/pull/1) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
-4. 💪 Opened PR [#1](https://github.com/aeswibon/dora-node/pull/1) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
-5. 🗣 Commented on [#7658](https://github.com/coronasafe/care_fe/pull/7658#issuecomment-2104578958) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+1. 💪 Opened PR [#6](https://github.com/Scoutflo/Doratest/pull/6) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+2. 🔒 Closed issue [#1](https://github.com/Scoutflo/Doratest/issues/1) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+3. 🎉 Merged PR [#5](https://github.com/Scoutflo/Doratest/pull/5) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+4. 💪 Opened PR [#5](https://github.com/Scoutflo/Doratest/pull/5) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+5. 🎉 Merged PR [#2](https://github.com/aeswibon/dora-node/pull/2) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
