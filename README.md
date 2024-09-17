@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/aeswibon/portfolio/pull/5) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
-2. 💪 Opened PR [#5](https://github.com/aeswibon/portfolio/pull/5) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
-3. 🎉 Merged PR [#4](https://github.com/aeswibon/portfolio/pull/4) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
-4. 💪 Opened PR [#4](https://github.com/aeswibon/portfolio/pull/4) in [aeswibon/portfolio](https://github.com/aeswibon/portfolio)
-5. 💪 Opened PR [#6](https://github.com/Scoutflo/Doratest/pull/6) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+1. 💪 Opened PR [#6](https://github.com/Scoutflo/Doratest/pull/6) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+2. 🔒 Closed issue [#1](https://github.com/Scoutflo/Doratest/issues/1) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+3. 🎉 Merged PR [#5](https://github.com/Scoutflo/Doratest/pull/5) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+4. 💪 Opened PR [#5](https://github.com/Scoutflo/Doratest/pull/5) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+5. 🎉 Merged PR [#2](https://github.com/aeswibon/dora-node/pull/2) in [aeswibon/dora-node](https://github.com/aeswibon/dora-node)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
