@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401660250) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-2. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401632087) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-3. 💪 Opened PR [#6](https://github.com/Scoutflo/Doratest/pull/6) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
-4. 🔒 Closed issue [#1](https://github.com/Scoutflo/Doratest/issues/1) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
-5. 🎉 Merged PR [#5](https://github.com/Scoutflo/Doratest/pull/5) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+1. ❗ Opened issue [#1708](https://github.com/dubinc/dub/issues/1708) in [dubinc/dub](https://github.com/dubinc/dub)
+2. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401660250) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
+3. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401632087) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
+4. 💪 Opened PR [#6](https://github.com/Scoutflo/Doratest/pull/6) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
+5. 🔒 Closed issue [#1](https://github.com/Scoutflo/Doratest/issues/1) in [Scoutflo/Doratest](https://github.com/Scoutflo/Doratest)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
