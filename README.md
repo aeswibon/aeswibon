@@ -33,11 +33,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1034](https://github.com/hasura/learn-graphql/pull/1034) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
-2. ❌ Closed PR [#25](https://github.com/ACM-Student-Chapter-VNIT/ACM-Website-Frontend/pull/25) in [ACM-Student-Chapter-VNIT/ACM-Website-Frontend](https://github.com/ACM-Student-Chapter-VNIT/ACM-Website-Frontend)
-3. ❗ Opened issue [#1708](https://github.com/dubinc/dub/issues/1708) in [dubinc/dub](https://github.com/dubinc/dub)
-4. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401660250) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
-5. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401632087) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
+1. 💪 Opened PR [#25](https://github.com/FrigadeHQ/trench/pull/25) in [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
+2. ❌ Closed PR [#1034](https://github.com/hasura/learn-graphql/pull/1034) in [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
+3. ❌ Closed PR [#25](https://github.com/ACM-Student-Chapter-VNIT/ACM-Website-Frontend/pull/25) in [ACM-Student-Chapter-VNIT/ACM-Website-Frontend](https://github.com/ACM-Student-Chapter-VNIT/ACM-Website-Frontend)
+4. ❗ Opened issue [#1708](https://github.com/dubinc/dub/issues/1708) in [dubinc/dub](https://github.com/dubinc/dub)
+5. 🗣 Commented on [#239](https://github.com/orbstack/orbstack/issues/239#issuecomment-2401660250) in [orbstack/orbstack](https://github.com/orbstack/orbstack)
 <!--END_SECTION:activity-->
 
 ### ✍️ Random Dev Quote
