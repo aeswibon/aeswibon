@@ -1,0 +1,70 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Portfolio",
+  "favicon": "/favicon.svg",
+  "theme": "prism",
+  "background": {
+    "style": "gradient"
+  },
+  "font": {
+    "headings": {
+      "family": "Geist"
+    },
+    "body": {
+      "family": "Inter"
+    }
+  },
+  "colors": {
+    "primary": "#1E3A8A",
+    "light": "#3B82F6",
+    "dark": "#1E2A47",
+    "anchors": {
+      "from": "#1E3A8A",
+      "to": "#3B82F6"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:contact.abhiuday@gmail.com"
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Home",
+      "url": "home"
+    },
+    {
+      "name": "Projects",
+      "url": "projects"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "",
+      "pages": [
+        "home/introduction",
+        "home/skills",
+        "home/experience"
+      ]
+    },
+    {
+      "group": "",
+      "pages": [
+        "projects/digital-business-card",
+        "projects/saas-database-search-engine",
+        "projects/universal-sdk-manager"
+      ]
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Github",
+    "type": "link",
+    "url": "https://github.com/aeswibon"
+  },
+  "footerSocials": {
+    "x": "https://x.com/aeswibon",
+    "github": "https://github.com/aeswibon",
+    "linkedin": "https://linkedin.com/in/aeswibon"
+  }
+}
